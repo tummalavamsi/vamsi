@@ -21,6 +21,7 @@
      
     position: relative;
     margin: 50px 40 0px;
+    margin-top:60em;
   }
   
   .cards__items {
@@ -58,7 +59,7 @@
   .cards__item__pic-wrap {
     position: relative;
     width: 100%;
-    padding-top: 67%;
+    padding-top: 70%;
     overflow: hidden;
   }
   

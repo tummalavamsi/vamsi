@@ -18,7 +18,7 @@ function Cards() {
                     />
                     <Carditem
                     src=''
-                    text='explopre'
+                    text='explore'
                     label='Adventure'
                     path='/services'
                     className='card2'
