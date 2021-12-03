@@ -15,7 +15,7 @@ function Carditem(props) {
                       <h5 className='cards__item__text'>
                       {props.text}
                       </h5>
-                      <h6 className='cards__item__desc'>{props.desc}</h6>
+                      <h6 className='cards__item__desc'>{props.desc} </h6>
                       
                       <Link to={props.path} className='card-btn'>
            
