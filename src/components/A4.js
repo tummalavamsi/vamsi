@@ -30,8 +30,18 @@ import './Getstarted.css';
                     label=''
                     desc=' Know how to interact most effectively with all your colleagues, bosses, and partners. '
                     btntext='View More'
+                    path='/B4'
 
                     className='card2'
+                    />
+                     <Carditem
+                    src='\images\love.png'
+                    text='Love calculator'
+                    label=''
+                    desc='Find out if you and your love interest or partner are soul mates, best friends, or a recipe for disaster. '
+                    btntext='View More'
+                    path='/B5'
+                    className='card1'
                     /></ul>
                    <ul className='cards__items'>
                       

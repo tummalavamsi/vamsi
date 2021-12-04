@@ -6,6 +6,7 @@ import Home from './components/pages/Home';
 import Getstarted from './components/Getstarted'
 import A2 from './components/A2';
 
+
 import A4 from './components/A4';
 import A1 from './components/A1';
 import A3 from './components/A3';
@@ -21,6 +22,8 @@ import S3 from './components/S3';
 import S4 from './components/S4';
 import B1 from './components/B1';
 import B2 from './components/B2';
+import B3 from './components/B3';
+import B4 from './components/B4';
 
 function App() {
   return (
@@ -65,15 +68,12 @@ function App() {
   {B1}/>
   <Route path='/B2' exact component=
   {B2}/>
-  
-  
-  
-     
- 
 
- 
+  <Route path='/B3' exact component=
+  {B3}/>
+   <Route path='/B4' exact component=
+  {B4}/>
   
-
 </Switch>
 
     </Router>
