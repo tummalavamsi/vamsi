@@ -21,6 +21,7 @@ import './Getstarted.css';
                     label=''
                     desc='Find out if you and your love interest or partner are soul mates, best friends, or a recipe for disaster. '
                     btntext='View More'
+                    path='/B3'
                     className='card1'
                     />
                     <Carditem
@@ -29,6 +30,7 @@ import './Getstarted.css';
                     label=''
                     desc=' Know how to interact most effectively with all your colleagues, bosses, and partners. '
                     btntext='View More'
+
                     className='card2'
                     /></ul>
                    <ul className='cards__items'>

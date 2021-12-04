@@ -21,6 +21,7 @@ import './Getstarted.css';
                     label=''
                     desc='It is basically a depiction of the zodiac exactly as it is laid out. Each of these 12 boxes is the representation of a Rashi of 30 degrees  '
                     btntext='View More'
+                    path='./S1'
                     className='card1'
                     />
                     <Carditem
@@ -29,6 +30,7 @@ import './Getstarted.css';
                     label=''
                     desc=' diamond chart format is more of an astrological perspective than an astronomical one. It is a house centric chart format '
                     btntext='View More'
+                    path='./S2'
                     className='card2'
                     /></ul>
                    <ul className='cards__items'>
@@ -38,6 +40,7 @@ import './Getstarted.css';
                     label=''
                     desc='the East Indian chart looks like a blend of the North Indian and South Indian Charts. It is also a Rashi centric format '
                     btntext='View More'
+                    path='./S3'
                     className='card1'
                     />
                      <Carditem
@@ -46,6 +49,7 @@ import './Getstarted.css';
                     label=''
                     desc='it is  use a wheel format to represent a birth chart is a literal representation of the Earth with the zodiac in a circular path around it'
                     btntext='View More'
+                    path='./S4'
                     className='card2'
                     />
                      </ul>

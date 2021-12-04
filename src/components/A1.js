@@ -41,6 +41,7 @@ import './Getstarted.css';
                     label=''
                     desc='The stuff that emerges from the earth — precious stones, harvests, clay — has real value in the material world '
                     btntext='View More'
+                    path='./M3'
                     className='card1'
                     />
                      <Carditem
@@ -49,6 +50,7 @@ import './Getstarted.css';
                     label=''
                     desc='They are experts in the ephemeral, the things of this world that lack physical form'
                     btntext='View More'
+                    path='./M4'
                     className='card2'
                     />
                      </ul>

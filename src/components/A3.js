@@ -22,6 +22,7 @@ import './Getstarted.css';
                     desc='Birth years: Last number of your birth is 0 or 1
                     Associated with: “solidity and willpower" '
                     btntext='View More'
+                    path='./B1'
                     className='card1'
                     />
                     <Carditem
@@ -31,6 +32,7 @@ import './Getstarted.css';
                     desc=' Birth years: Last number of your birth is 2 or 3
                     Associated with: “responsiveness and persuasion”'
                     btntext='View More'
+                    path='./M2'
                     className='card2'
                     /></ul>
                    <ul className='cards__items'>
@@ -41,6 +43,7 @@ import './Getstarted.css';
                     desc='Birth years: Last number of your birth is 4 or 5
                     Associated with: “imagination and creativity”'
                     btntext='View More'
+                    path='/B2'
                     className='card1'
                     />
                      <Carditem
@@ -50,6 +53,7 @@ import './Getstarted.css';
                     desc='Birth years: Last number of your birth is 6 or 7
                     Associated with: “passion, and bursts of dynamic energy”'
                     btntext='View More'
+                    path='/M1'
                     className='card2'
                     />
 
