@@ -28,8 +28,7 @@ import A1 from './A1';
      return (
       <div className='framebox'>
      <Navbar2 /><br />
-   
-
+    
 <div>
 Love compatibility:<br/>
 <br/><p> Making a love connection: </p>

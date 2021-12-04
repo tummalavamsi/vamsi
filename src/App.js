@@ -6,7 +6,6 @@ import Home from './components/pages/Home';
 import Getstarted from './components/Getstarted'
 import A2 from './components/A2';
 
-
 import A4 from './components/A4';
 import A1 from './components/A1';
 import A3 from './components/A3';
@@ -73,6 +72,7 @@ function App() {
   {B3}/>
    <Route path='/B4' exact component=
   {B4}/>
+  
   
 </Switch>
 
