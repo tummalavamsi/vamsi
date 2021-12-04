@@ -1,15 +1,21 @@
-.login {
+
+
+.register1 {
     width: 400px;
-    background: #fff;
-    border: 1px solid #dddfe2;
+    background: rgba(22, 21, 21, 0.5);
     box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
     border-radius: 8px;
     padding: 1rem;
     align-items: center;
     text-align: center;
+    margin-left:5rem;
+    margin-top:5rem;
+}
+.register1 >h1{
+    color: white;
 }
 
-.login > input {
+.register1 > input {
     border-radius: 8px;
     border: 2px solid #dddfe2;
     outline: none;
@@ -20,7 +26,7 @@
     font-size: 1rem;
 }
 
-.login > .button {
+.register1 > .button {
     background: #1877f2;
     border: 1px solid #1877f2;
     color: #fff;
@@ -30,4 +36,7 @@
     border-radius: 8px;
     outline: none;
     cursor: pointer;
+}
+.register1>p{
+    color: white;
 }

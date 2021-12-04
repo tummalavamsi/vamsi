@@ -25,7 +25,7 @@ const Register = () => {
     const register = () => {
         const { name, email, password, reEnterPassword } = user
         if( name && email && password && (password === reEnterPassword)){
-            axios.post("http://localhost:3000/register", user)
+            axios.post("http://localhost:9002/register", user)
             .then( res => {
                 alert(res.data.message)
                 history.push("/login")
@@ -39,7 +39,7 @@ const Register = () => {
     return (
         <div className='hero-container4'>
 
-        <video className='video3'src="/videos/video-1.1.mp4" autoPlay loop muted/>
+        <video className='video3'src="/videos/Milky Way Glowing At Night.mp4" autoPlay loop muted/>
        <div>
         <div className="register1">
             {console.log("User", user)}

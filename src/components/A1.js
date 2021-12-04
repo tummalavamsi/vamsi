@@ -28,7 +28,7 @@ import './Getstarted.css';
                     src='\images\water.jpg'
                     text='Water Signs'
                     label=''
-                    desc=' On the basest level, both speak to emotion, intuition, and memory … If the fire signs embody a solar or Martian energy. '
+                    desc=' On the basest level, both speak to emotion, intuition, and memory if the fire signs embody a solar or Martian energy. '
                     btntext='View More'
                     path='./M2'
                     
